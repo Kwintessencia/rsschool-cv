@@ -39,7 +39,7 @@ function square(number) {
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 -------------------------------------------------
 ### Project example:
-Please go check my [CV-project](https://github.com/Kwintessencia/rsschool-cv/blob/gh-pages/cv.md) on GitHub
+Please go check my [CV-project](https://kwintessencia.github.io/rsschool-cv/cv) on GitHub
 
 --------------------------------------------------
 ### Languages:
