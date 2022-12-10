@@ -1,5 +1,7 @@
 # Oleksandra Kryvosheia
 
+![PHOTO](https://ibb.co/Xsqy3bq)
+
 ### Junior Frontend Developer
 
 --------------------------------------------
@@ -17,4 +19,32 @@ The wide experience is behind my back: including philological education, working
 Just few years ago I realized that fact I'm not on my place and I should choose another path. That's how I started to learn frontend developing.
 
 ----------------------------------------------
-### Skills 
+### Skills and Proficiency:
+1. HTML5 & CSS3
+2. Git & GitHub
+3. VS Code IDE
+4. Bitrix CMS
+5. JavaScript Basic
+----------------------------------------------
+### Code example:
+The function square takes one parameter, called number. The function consists of one statement that says to return the parameter of the function (that is, number) multiplied by itself.
+```javascript
+function square(number) {
+  return number * number;
+}
+```
+### Courses:
+- Introduction to web development on hexlet.io (completed)
+- The life of the programmer on hexlet.io (completed)
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+-------------------------------------------------
+### Project example:
+Please go check my [CV-project](https://github.com/Kwintessencia/rsschool-cv/blob/gh-pages/cv.md) on GitHub
+
+--------------------------------------------------
+### Languages:
+- Russian (native)
+- Ukranian (upper-intermediate)
+- German (basic)
+- English (proficient according to Efset)
+![EFSET](https://ibb.co/Qd7qn2S)
