@@ -1,6 +1,6 @@
 # Oleksandra Kryvosheia
 
-![PHOTO](assets/photo.JPEG)
+![PHOTO](assets/photo.JPEG =200x200)
 
 ### Junior Frontend Developer
 
