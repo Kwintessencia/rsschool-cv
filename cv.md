@@ -1,6 +1,6 @@
 # Oleksandra Kryvosheia
 
-![PHOTO](https://ibb.co/Xsqy3bq)
+![PHOTO](assets/photo.JPEG)
 
 ### Junior Frontend Developer
 
@@ -47,4 +47,5 @@ Please go check my [CV-project](https://github.com/Kwintessencia/rsschool-cv/blo
 - Ukranian (upper-intermediate)
 - German (basic)
 - English (proficient according to Efset)
-![EFSET](https://ibb.co/Qd7qn2S)
+  
+![EFSET](assets/efset.jfif)
