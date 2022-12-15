@@ -1,6 +1,6 @@
 # Oleksandra Kryvosheia
 
-![PHOTO](assets/photo.png)
+![PHOTO](./assets/img/photo.png)
 
 ### Junior Frontend Developer
 
@@ -36,16 +36,20 @@ function square(number) {
 ### Courses:
 - Introduction to web development on hexlet.io (completed)
 - The life of the programmer on hexlet.io (completed)
-- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 0 (in progress)
 -------------------------------------------------
 ### Project example:
 Please go check my [CV-project](https://kwintessencia.github.io/rsschool-cv/cv) on GitHub
 
 --------------------------------------------------
+### Education:
+- Odesa Mechnikov National University
+- Odesa National Economic University
+--------------------------------------------------
 ### Languages:
 - Russian (native)
-- Ukranian (upper-intermediate)
+- Ukrainian (upper-intermediate)
 - German (basic)
 - English (proficient according to Efset)
   
-![EFSET](assets/efset.jfif)
+![EFSET](./assets/img/efset.jfif)

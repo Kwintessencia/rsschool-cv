@@ -1,0 +1,151 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+  }
+
+  html {
+    scroll-behavior: smooth; 
+  }
+
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #F5EBE0;
+  }
+
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    background-color: #DBA39A;
+    height: 60px;
+  }
+
+  nav a {
+    color: black;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+ nav a:hover {
+    color:#FEFCF3;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+.section{
+    padding: 10px;
+}
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+    font-style: oblique;
+  }
+  .section#headline{
+    padding: 10px 10px;
+  }
+ 
+  h3 {
+    margin: 5px;
+  }
+
+.section#project a{
+    color: black;
+    text-decoration: none;
+}
+.section#project a:hover{
+    color:#DBA39A;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+  .photo{
+    margin: 15px 15px 15px 50px;
+    border: 10px #DBA39A solid;
+    width: 205px;
+    height: 205px;
+  }
+
+  ul li a{
+    text-decoration: none;
+    color: black;
+  }
+
+  ul li a:hover {
+    color:#DBA39A;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+  }
+.contact-item#location {
+    list-style-image: url(./assets/logo/location.png);
+}
+.contact-item#e-mail {
+    list-style-image: url(./assets/logo/e-mail.png);
+}
+.contact-item#discord {
+    list-style-image: url(./assets/logo/discord.png);
+}
+.contact-item#telegram {
+    list-style-image: url(./assets/logo/telegram.png);
+}
+.contact-item#linkedin {
+    list-style-image: url(./assets/logo/linkedin.png);
+}
+
+
+.efset-english-lvl {
+    width: 250px;
+    height: 150px;
+    margin-top: 10px;
+}
+
+.container .footer{
+    height: 100px;
+    background-color: #DBA39A;
+}
+
+.footer .rsschool-logo {
+    width: 200px;
+    margin-left: 1000px;
+    margin-top: 10px;
+}
+.footer p {
+    display: inline;
+    width: 200px;
+}
+.footer p a{
+    color: black;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.footer p a:hover {
+    color:#FEFCF3;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+progress {
+    color: green;
+}
