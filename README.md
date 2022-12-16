@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kwintessencia.github.io/rsschool-cv/
